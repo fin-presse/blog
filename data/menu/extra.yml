@@ -1,0 +1,16 @@
+---
+header:
+  - name: FIN Website
+    icon: gblog_bookmarks
+    ref: "https://www.inf.ovgu.de/en/"
+    external: true
+
+footer:
+  - name: Imprint
+    icon: gblog_email
+    ref: "https://www.inf.ovgu.de/Impressum.html"
+    external: true
+  - name: Contact
+    icon: gblog_email
+    ref: "https://www.inf.ovgu.de/Kontakt.html"
+    external: true
