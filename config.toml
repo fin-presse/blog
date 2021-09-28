@@ -54,7 +54,7 @@ enableRobotsTXT = true
   #keywords = []
   #images = []
 
-  #logo = "logo.png"
+  logo = "fin.png"
 
   #geekblogToC = 3
 
