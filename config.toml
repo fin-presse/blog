@@ -1,4 +1,4 @@
-baseURL = "https://fin-presse.github.io/blog"
+baseURL = "https://blog.cs.ovgu.de/"
 languageCode = "en-us"
 title = "FIN Blog"
 theme = "hugo-geekblog"
