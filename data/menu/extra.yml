@@ -1,7 +1,7 @@
 ---
 header:
   - name: FIN Website
-    icon: gblog_bookmarks
+    icon: gblog_link
     ref: "https://www.inf.ovgu.de/en/"
     external: true
 
