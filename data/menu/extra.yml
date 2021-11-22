@@ -1,5 +1,8 @@
 ---
 header:
+  - name: Publication
+    icon: gblog_bookmarks
+    ref: "/tags/Publication"
   - name: FIN Website
     icon: gblog_link
     ref: "https://www.inf.ovgu.de/en/"
