@@ -49,7 +49,7 @@ enableRobotsTXT = true
   term = ["HTML", "ATOM"]
 
 [params]
-  subtitle = "Faculty of Computer Science at Otto von Guericke University Magdeburg"
+  subtitle = "Computer Science at Otto von Guericke University Magdeburg"
   description = ""
   #keywords = []
   #images = []
