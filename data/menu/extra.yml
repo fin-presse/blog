@@ -1,7 +1,7 @@
 ---
 header:
   - name: Publication
-    icon: gblog_bookmarks
+    icon: gblog_bookmark
     ref: "/tags/Publication"
   - name: FIN Website
     icon: gblog_link
